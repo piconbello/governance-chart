@@ -1,0 +1,8 @@
+{
+  "short_name": "Piconbello - ICON Foundation P-rep Voting Chart",
+  "name": "Follow the P-rep voting with a chart, LIVE!",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
